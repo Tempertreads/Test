@@ -1,0 +1,11 @@
+Code is in the ClearpathTestOTTO folder.
+Application can be run two ways:
+
+Method 1
+Double clicking the ClearPathOTTO.exe file in the base folder(this works if you have .Net framework installed)
+
+Method 2
+Install the application by going into the "Installation" folder and double clicking Setup.exe
+The application will run immediatly after it's installed and should you want to run it again a shortcut is found in the start menu as "ClearPathTestOTTO"
+The application can be uninstalled via Add/Remove Programs.
+
